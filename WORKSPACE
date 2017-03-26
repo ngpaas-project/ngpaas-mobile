@@ -17,8 +17,6 @@
 # Kanerva
 #bazel run --compilation_mode="dbg" --verbose_failures //src/core:sp_lib_test
 
-
-#bazel build --compilation_mode="dbg" --verbose_failures //oai5G/tools/com:com
 #bazel build --compilation_mode="dbg" --verbose_failures //oai5G/tools/com:hwclient_test
 ###############################################################################
 # Redis Server for Backend
