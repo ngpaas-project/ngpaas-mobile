@@ -15,7 +15,4 @@ The repository contains the mobile application for the NGPaaS project.
 <div align="left">
         <img width="8%" src="administrativia/images/ngpaas-100-S.jpg" alt="NGPaaS" title="NGPaaS"></img> 
 </div>
-<div align="left">
-        <img width="8%" src="administrativia/images/eu.jpg" alt="NGPaaS" title="NGPaaS"></img> 
-</div>
 ICT-08-2017 NGPaaS © 2017
